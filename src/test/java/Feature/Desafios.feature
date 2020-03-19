@@ -3,7 +3,7 @@
 
 Funcionalidade:
   Eu, pretendente a vaga de automação
-  Preciso validar o desafio 1
+  Preciso construir cenários de teste automatizado
   Para validar meus conhecimentos
 
   Esquema do Cenário: Validar desafio 1
@@ -37,4 +37,3 @@ Funcionalidade:
     Entao        fecha a tela
 
 
-      
